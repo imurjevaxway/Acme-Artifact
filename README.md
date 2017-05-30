@@ -21,9 +21,9 @@ Deploy like this:
 you can uninstall completely or temporarily disable this extention:
 * Disable - just call 'touch ./extentions/acmesample/.bypass' and restart/bounce in your product
 * Unistall:
-** Stop your product
-** remove './extentions/acmesample'
-** Restart
+..* Stop your product
+..* remove './extentions/acmesample'
+..* Restart
 
 ### Change logging storage location and rollover
 By default acme sample logs to './extentions/acmesample/logs', the logs are rolled over daily. If you wish to change the location or rollover you need to do the following:
