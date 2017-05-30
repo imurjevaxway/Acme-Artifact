@@ -33,7 +33,6 @@ By default acme sample logs to './extentions/acmesample/logs', the logs are roll
 
 ## Bug and Caveats
 
-```
 
 ## Contributing
 
